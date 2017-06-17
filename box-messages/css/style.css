@@ -38,3 +38,10 @@
     border-color: #f4eddb;
     color: #7f743c;
 }
+
+.error {
+    background-color: #f2dedf;
+    background-image:  url(images/icon-error.png);
+    border-color: #e2d4d3;
+    color: #8c433a;
+}
