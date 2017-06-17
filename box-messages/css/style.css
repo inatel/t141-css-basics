@@ -24,3 +24,10 @@
     border-color: #cee0e4;
     color: #3e5d6f;
 }
+
+.success {
+    background-color: #def0d8;
+    background-image:  url(images/icon-success.png);
+    border-color: #d9e5cf;
+    color: #4e6841;
+}
