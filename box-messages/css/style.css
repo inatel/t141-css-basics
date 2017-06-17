@@ -31,3 +31,10 @@
     border-color: #d9e5cf;
     color: #4e6841;
 }
+
+.warning {
+    background-color: #fbf8e5;
+    background-image:  url(images/icon-warning.png);
+    border-color: #f4eddb;
+    color: #7f743c;
+}
