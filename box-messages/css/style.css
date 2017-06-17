@@ -1,0 +1,16 @@
+/* CSS Box Model*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box-message {
+    border: 3px solid green;
+    font-size: 1.1em;
+    width: 450px;
+    height: 75px;
+    margin: 10px;
+    padding-left: 75px;
+    line-height: 75px;
+}
