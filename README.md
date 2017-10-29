@@ -1,3 +1,3 @@
 # CSS Basics
 
-Learn CSS by doing
+Learn CSS(Cascading Style Sheets) by doing
